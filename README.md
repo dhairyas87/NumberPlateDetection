@@ -88,7 +88,7 @@ Duplicate plates are automatically removed, keeping the **highest-confidence det
 ## 🖼️ High-Confidence Plate Images
 
 Plate images are saved only when:
-- OCR confidence ≥ **0.75**
+- OCR confidence ≥ **0.5**
 - Plate has not been saved before
 
 This keeps the dataset clean and GitHub-friendly.
